@@ -1,7 +1,7 @@
-# validation_request
+# request_validation
 
 ## Установка
-Клонировать этот репозиторий. `git clone https://github.com/Tomahawk159/validation_request`
+Клонировать этот репозиторий. `git clone https://github.com/Tomahawk159/request_validation`
 
 ## Запуск 
 1. Создание виртуального окружения `python -m venv venv`
