@@ -1,0 +1,10 @@
+{
+    "_default": {
+        "1": {
+            "name": "MyForm",
+            "user_name": "text",
+            "order_date": "date",
+            "lead_email": "email"
+        }
+    }
+}
